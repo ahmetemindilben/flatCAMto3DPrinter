@@ -11,7 +11,7 @@
   <p align="center">
      A simple tool developed to use the GCODE file generated from Flatcam in 3D Printer (Marlin)
     <br />
-    <a href=""><strong>Download »</strong></a>
+    <a href="https://github.com/ahmetemindilben/flatCAMto3DPrinter/releases/tag/v1.0"><strong>Download »</strong></a>
     <br />
   </p>
 </p>
