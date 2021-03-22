@@ -1,0 +1,5 @@
+;CUSTOM START GCODE
+M211 S0; Disable software end-stop
+G90; Absolute positioning
+G04 P500; Dwell 500ms
+M0 PRESS BUTTON FOR START ;

@@ -1,0 +1,4 @@
+;CUSTOM END GCODE
+M117 PCB MILL IS DONE;
+G04 P500; Dwell 500ms
+M84 X Y ; Disable step motors but Z

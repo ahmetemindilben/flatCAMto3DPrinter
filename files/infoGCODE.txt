@@ -1,0 +1,3 @@
+;Generated (Converted) with FlatCAMto3DPrinter GCODE Adapter v1.0
+;Generated Time: 14:52:05 - 21/03/2021
+;Use GCODE with your own risk. / GCODE'u kendi sorumluluğunuz ile çalıştırın.
