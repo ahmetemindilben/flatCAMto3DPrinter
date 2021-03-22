@@ -3,7 +3,7 @@
 <!-- ReadMe File Credit: https://github.com/othneildrew/Best-README-Template -->
 <p align="center">
   <a href="">
-    <img src="files/logo_en.jpg" alt="Logo">
+    <img src="https://github.com/ahmetemindilben/flatCAMto3DPrinter/blob/main/files/logo_EN.jpg" alt="Logo">
   </a>
 
   <h3 align="center">flatCAMto3DPrinter</h3>
