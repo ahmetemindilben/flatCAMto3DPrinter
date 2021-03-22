@@ -33,3 +33,11 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
+## About
+
+FlatCAM is a great program. It is multifunctional and has many features to make a Gerber fit for CNC.
+
+FlatCAM is used not only for CNCs, sometimes it's used in 3D printers converted to a simple cnc. However, I had some problems with my own 3d printer. That's why I wrote this program. With this program, you can specify the lines to be deleted from the Gcode file, do a few rounds of izolation routing, and adjust the speeds.
+
+
